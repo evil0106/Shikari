@@ -8,6 +8,9 @@ Termux Hunter (Shikari) Tool : Hack Your Victim with Shikari
 # Note :
 If yo don't know how to use or main use of Shikari then Ignore This Tool ^^
 
+# Youtue Video :
+https://www.youtube.com/watch?v=tksfK3CZvnc
+
 # Shikari Data :
 http://scnc.co.za/shikari.txt<br>
 http://ayk.co.za/shikari.txt<br>
