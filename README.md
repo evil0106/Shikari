@@ -42,9 +42,9 @@ shikari-download<br>
 shikari-whatsapp<br>
 shikari-movie<br>
 <br>
-Created by Parixit Sutariya
-Github : github.com/Bhai4You
-Youtube : youtube.com/BullAnonymous
+Created by Parixit Sutariya<br>
+Github : github.com/Bhai4You<br>
+Youtube : youtube.com/BullAnonymous<br>
 
 
 <br><br>
