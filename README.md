@@ -65,3 +65,4 @@ http://foodconsult.co.za/shikari.txt<br>
 <p align="center">
     <a href="https://pypi.org/project/shikari/">Shikari Tool</a>
 </p>
+post the all the steps related to this shikari -- or please mail me evil0106@gmail.com
